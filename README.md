@@ -6,4 +6,4 @@ https://almalinux.org/
 
 https://rockylinux.org/
 
-Novo
+https://www.oracle.com/br/linux/
